@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task maximus</string>
+    <string name="str_let_s_go">Let\'s Go</string>
+    <string name="str_reload">Reload</string>
+    <string name="ad">Ad</string>
+    <string name="str_ad_interstitial">Show Interstitial Ad</string>
+</resources>
